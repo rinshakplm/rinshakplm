@@ -1,22 +1,17 @@
-# Hey, I'm Rinsha🖖🏾
+# *hey, I'm Rinsha* 🖖🏾
 
-### BCA Student | Cybersecurity | Linux 🐧 | Cloud
-
-I'm a BCA student exploring the world of cybersecurity, with a growing interest in Linux, cloud security, and how systems work behind the scenes.
+#### BCA Student → Cybersecurity • Linux • Cloud
 
 
-- Exploring Cybersecurity & Security Research
-- Learning Linux & the command line
-- Exploring Cloud Computing & Cloud Security
-- Strengthening my Computer Science fundamentals
-- Learning through experimentation and practical projects
+
+*Exploring cybersecurity, cloud, Linux, and everything that makes systems tick.*
 
 
 ## Research Interests
 
 →  Cybersecurity  
 → Cloud Security  
-→ AI & Cybersecurity
+→ Secure Systems
 
   ##  Tech Stack & Learning
 

@@ -7,11 +7,7 @@
 *Exploring cybersecurity, cloud, Linux, and everything that makes systems tick.*
 
 
-## Research Interests
 
-→ Cybersecurity<br>
-→ Cloud Security<br>
-→ Secure Systems
 
  ## Tech Stack & learning
 

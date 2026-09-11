@@ -1,4 +1,4 @@
-# *hey, I'm Rinsha* 🖖🏾
+# *hey, I'm Rinsha* 
 
 #### BCA Student → Cybersecurity • Linux • Cloud
 

@@ -4,7 +4,6 @@
 
 
 
-*Exploring cybersecurity, cloud, Linux, and everything that makes systems tick.*
 
 
 
